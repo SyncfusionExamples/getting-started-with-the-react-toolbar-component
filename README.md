@@ -1,11 +1,6 @@
 # Getting Started with the React Toolbar Component
 
-A quick start React project that shows how to add React Toolbar component to the React App. This project also includes a code snippet to set the Toolbar’s prefix icons, separators, display modes, and add input-based components like Numeric Textbox and Dropdown List to it.
-
-Example: https://ej2.syncfusion.com/react/demos/#/material/toolbar/default 
-
-Documentation: https://ej2.syncfusion.com/react/documentation/toolbar/getting-started/
-
+The [React Toolbar](https://www.syncfusion.com/react-components/react-toolbar?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples) is a feature-rich component that provides an interface for selecting a command from a collection of commands. A quick start React project that shows how to add React Toolbar component to the React App. This project also includes a code snippet to set the Toolbar’s prefix icons, separators, display modes, and add input-based components like Numeric Textbox and Dropdown List to it.
 
 ## Project prerequisites
 
