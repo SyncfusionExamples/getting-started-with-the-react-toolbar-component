@@ -28,9 +28,9 @@ The React Toolbar component adapts to the available space with two types of disp
 ## Related links
 [Learn More about React Toolbar](https://www.syncfusion.com/react-components/react-toolbar?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
 
-[Download Free Trial](https://www.syncfusion.com/downloads/react?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/react/confirm?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
 
-[Pricing](https://www.syncfusion.com/sales/products/react?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
+[Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
 
 [Documentation](https://ej2.syncfusion.com/react/documentation/toolbar/getting-started?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
 
@@ -42,11 +42,11 @@ The React Toolbar component adapts to the available space with two types of disp
 
 [Online example](https://ej2.syncfusion.com/react/demos/#/material/toolbar/default?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
 
-[Knowledge base](https://www.syncfusion.com/kb/react-components?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
+[Knowledge base](https://support.syncfusion.com/kb/web/category/72?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
 
 
 ## About Syncfusion React UI Components
-Syncfusion's React UI Components library is the only suite that you will ever need to build an application since it contains over 65 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Toolbar, we provide popular React Components such as [DataGrid](https://www.syncfusion.com/react-components/react-data-grid?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples), [Charts](https://www.syncfusion.com/react-components/react-charts?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples), [Scheduler](https://www.syncfusion.com/react-components/react-scheduler?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples), [Diagram](https://www.syncfusion.com/react-components/react-diagram?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples), and [Word Processor](https://www.syncfusion.com/react-components/react-word-processor?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples).
+Syncfusion's React UI Components library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Toolbar, we provide popular React Components such as [DataGrid](https://www.syncfusion.com/react-components/react-data-grid?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples), [Charts](https://www.syncfusion.com/react-components/react-charts?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples), [Scheduler](https://www.syncfusion.com/react-components/react-scheduler?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples), [Diagram](https://www.syncfusion.com/react-components/react-diagram?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples), and [Word Processor](https://www.syncfusion.com/react-components/react-word-processor?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples).
 
 ### About Syncfusion
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 29,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
