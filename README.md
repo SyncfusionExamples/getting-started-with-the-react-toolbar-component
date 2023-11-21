@@ -27,7 +27,7 @@ The React Toolbar component adapts to the available space with two types of disp
 ## Related links
 [Learn More about React Toolbar](https://www.syncfusion.com/react-components/react-toolbar?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
 
-[Download Free Trial](https://www.syncfusion.com/downloads?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/react?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
 
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
 
