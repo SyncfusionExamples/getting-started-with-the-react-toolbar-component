@@ -35,11 +35,11 @@ The React Toolbar component adapts to the available space with two types of disp
 
 [View Demos](https://github.com/SyncfusionExamples/getting-started-with-the-react-toolbar-component?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
 
-[Community Forums](https://www.syncfusion.com/forums/react-components?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
+[Community Forums](https://www.syncfusion.com/forums/react-js2?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
 
-[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/react-components?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
+[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/react?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
 
-[Online example](https://ej2.syncfusion.com/react/demos/#/material/toolbar/default?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
+[Online example](https://ej2.syncfusion.com/react/demos/#/bootstrap5/toolbar/default?utm_source=github&utm_medium=listing&utm_campaign=react-toolbar-github-samples)
 
 
 ## About Syncfusion React UI Components
