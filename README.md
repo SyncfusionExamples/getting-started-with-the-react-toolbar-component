@@ -1,6 +1,5 @@
 # Getting Started with the React Toolbar Component
 
-**Repository Description**  
 This repository contains a quick‑start React sample that demonstrates how to integrate and configure the Syncfusion React Toolbar component within a React application.
 
 A quick start React project that shows how to add the React Toolbar component to a React app. This project also includes code snippets to configure toolbar prefix icons, separators, display modes, and to integrate input‑based components such as Numeric TextBox and DropDown List within the Toolbar.
